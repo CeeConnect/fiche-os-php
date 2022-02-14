@@ -50,6 +50,12 @@ class Value
     public const TYPE_INSTALLATION_COLLECTIF = 'collectif';
 
     /**
+     * Type d'isolation
+     */
+    public const TYPE_ISOLATION_ITE = 'ite';
+    public const TYPE_ISOLATION_ITI = 'iti';
+
+    /**
      * Type de bâtiment
      */
     public const TYPE_BATIMENT_MAISON = 'maison';
@@ -62,6 +68,12 @@ class Value
     public const ZONE_CLIMATIQUE_H1 = 'H1';
     public const ZONE_CLIMATIQUE_H2 = 'H2';
     public const ZONE_CLIMATIQUE_H3 = 'H3';
+
+    /**
+     * BAR-EN-101
+     */
+    public const BAR_EN_101_COMBLES_PERDUS = 'combles_perdus';
+    public const BAR_EN_101_RAMPANT = 'rampant';
 
     /**
      * BAR-EQ-103
