@@ -1,0 +1,21 @@
+{
+    "name": "ceeconnect/fiche-os-php",
+    "description": "Gestion des fiches d'op\u0000ration standardis\u0000e",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CeeConnect\\FicheOS\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrien Rosi",
+            "email": "adrienrosi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "bbc2050/domaine-rge": "^1.0"
+    }
+}

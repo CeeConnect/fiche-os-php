@@ -1,0 +1,8 @@
+[
+{"code":"AGRI","nom":"Agriculture"},
+{"code":"BAR","nom":"Bâtiment Résidentiel"},
+{"code":"BAT","nom":"Bâtiment Tertiaire"},
+{"code":"IND","nom":"Industrie"},
+{"code":"RES","nom":"Réseaux"},
+{"code":"TRA","nom":"Transport"}
+]

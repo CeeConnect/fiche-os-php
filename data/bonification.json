@@ -1,0 +1,8 @@
+[
+{"code":"ZNI","nom":"Zones non interconnectées","dateDebut":"2021-01-01","dateFin":null},
+{"code":"CPE","nom":"Contrat de performance énergétique","dateDebut":"2021-01-01","dateFin":null},
+{"code":"CFT","nom":"Chaudière collective à haute performance énergétique","dateDebut":"2021-01-01","dateFin":"2025-12-31"},
+{"code":"CRC","nom":"Coup de pouce Rénovation performante de bâtiment résidentiel collectif","dateDebut":"2021-01-01","dateFin":"2025-12-31"},
+{"code":"CRM","nom":"Coup de pouce Rénovation performante d'une maison individuelle","dateDebut":"2021-01-01","dateFin":"2025-12-31"},
+{"code":"CDP","nom":"Coup de pouce Chauffage et Isolation","dateDebut":"2021-01-01","dateFin":"2025-12-31"}
+]
