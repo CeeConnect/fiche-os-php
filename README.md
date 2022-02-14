@@ -1,5 +1,7 @@
 # @ceeconnect - Fiches d'opération standardisée
 
+@version A42-2
+
 ## Roadmap
 
 ### Fiches

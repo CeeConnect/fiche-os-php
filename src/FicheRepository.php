@@ -121,6 +121,7 @@ class FicheRepository
 
     private static function bonificationDataTransformer(array $data): Bonification
     {
+        var_dump($data, BonificationRepository::getOne($data['bonification'] ?? null));
         return BonificationRepository::getOne($data['bonification'] ?? null);
     }
 }

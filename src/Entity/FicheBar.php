@@ -22,7 +22,8 @@ class FicheBar extends AbstractFiche
         \DateTimeInterface $dateDebut,
         ?\DateTimeInterface $dateFin,
         int $version,
-        array $domainesRequis
+        array $domainesRequis,
+        array $bonifications
     )
     {
         $this->code = $code;
@@ -39,6 +40,7 @@ class FicheBar extends AbstractFiche
         $this->dateFin = $dateFin;
         $this->version = $version;
         $this->domainesRequis = $domainesRequis;
+        $this->bonifications = $bonifications;
     }
 
 }
