@@ -111,6 +111,12 @@ class Value
     public const BAR_SE_106_USAGE_ELECTRICITE = 'electricite_specifique';
 
     /**
+     * BAR-TH-113
+     */
+    public const BAR_TH_113_ALIMENTATION_AUTOMATIQUE = 'automatique';
+    public const BAR_TH_113_ALIMENTATION_MANUELLE = 'manuelle';
+
+    /**
      * BAR-TH-104
      */
     public const BAR_TH_104_TYPE_BASSE_TEMPERATURE = 'basse_temperature';
