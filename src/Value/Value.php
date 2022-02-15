@@ -20,6 +20,11 @@ class Value
     public const CLASSE_ENERGIE_A2 = 'A++';
     public const CLASSE_ENERGIE_A3 = 'A+++';
     public const CLASSE_ENERGIE_A4 = 'A++++';
+    public const CLASSE_ENERGIE_B = 'B';
+    public const CLASSE_ENERGIE_C = 'C';
+    public const CLASSE_ENERGIE_D = 'D';
+    public const CLASSE_ENERGIE_E = 'E';
+    public const CLASSE_ENERGIE_F = 'F';
 
     /**
      * Class du régulateur
