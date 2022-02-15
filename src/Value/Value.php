@@ -76,6 +76,13 @@ class Value
     public const BAR_EN_101_RAMPANT = 'rampant';
 
     /**
+     * BAR-EN-104
+     */
+    public const BAR_EN_104_FENETRE_TOITURE = 'fenetre_toit';
+    public const BAR_EN_104_FENETRE = 'fenetre';
+    public const BAR_EN_104_PORTE_FENETRE = 'porte_fenetre';
+
+    /**
      * BAR-EQ-103
      */
     public const BAR_EQ_103_REFRIGERATEUR = 'refrigerateur';
