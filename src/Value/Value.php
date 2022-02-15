@@ -102,6 +102,13 @@ class Value
     public const BAR_SE_106_USAGE_ELECTRICITE = 'electricite_specifique';
 
     /**
+     * BAR-TH-104
+     */
+    public const BAR_TH_104_TYPE_BASSE_TEMPERATURE = 'basse_temperature';
+    public const BAR_TH_104_TYPE_MOYENNE_TEMPERATURE = 'moyenne_temperature';
+    public const BAR_TH_104_TYPE_HAUTE_TEMPERATURE = 'haute_temperature';
+
+    /**
      * BAR-TH-127
      */
     public const BAR_TH_127_TYPE_A = 'type_A';
