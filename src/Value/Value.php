@@ -22,6 +22,15 @@ class Value
     public const CLASSE_ENERGIE_A4 = 'A++++';
 
     /**
+     * Class du régulateur
+     */
+    public const CLASSE_REGULATEUR_IV = 'IV';
+    public const CLASSE_REGULATEUR_V = 'V';
+    public const CLASSE_REGULATEUR_VI = 'VI';
+    public const CLASSE_REGULATEUR_VII = 'VII';
+    public const CLASSE_REGULATEUR_VIII = 'VIII';
+
+    /**
      * Energie de chauffage
      */
     public const ENERGIE_CHAUFFAGE_ELECTRICITE = 'electricite';
