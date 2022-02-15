@@ -124,6 +124,12 @@ class Value
     public const BAR_TH_104_TYPE_HAUTE_TEMPERATURE = 'haute_temperature';
 
     /**
+     * BAR-TH-125
+     */
+    public const BAR_TH_125_TYPE_MODULE = 'module';
+    public const BAR_TH_125_TYPE_AUTOREGLABLE = 'autoreglable';
+
+    /**
      * BAR-TH-127
      */
     public const BAR_TH_127_TYPE_A = 'type_A';
